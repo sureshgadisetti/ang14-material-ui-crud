@@ -1,0 +1,18 @@
+{
+  "students":[
+    {
+      "id":1,
+      "firstName":"Suresh",
+      "lastName": "Gadisetti",
+      "gender": "Male",
+      "age": 4
+    },
+    {
+      "id":2,
+      "firstName":"Sita",
+      "lastName": "Ram",
+      "gender": "Male",
+      "age": 10
+    }
+  ]
+}
